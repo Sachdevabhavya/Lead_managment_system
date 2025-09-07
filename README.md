@@ -96,8 +96,8 @@ utils/
 
 ### Activities
 
-- `GET /api/activities` — Get all activities (protected)
-- `POST /api/activities` — Create a new activity (protected)
+- `GET /api/activities` — Get all activities
+- `POST /api/activities` — Create a new activity 
 
 ## Authentication
 
